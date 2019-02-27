@@ -1,0 +1,4 @@
+#Wed Feb 27 09:15:58 CST 2019
+base.0=F\:\\File_F\\IngoreFile\\Utils-master-master\\sampleApp1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
